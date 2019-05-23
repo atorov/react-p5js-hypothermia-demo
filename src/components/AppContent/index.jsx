@@ -70,6 +70,22 @@ function AppContent({ classes }) {
                 </Paper>
             </div>
 
+            <div className={classes.github}>
+                <a
+                    href="https://github.com/atorov/react-p5js-hypothermia-demo"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    <img
+                        alt="github logo"
+                        src="/img/github-logo.png"
+                        border="0"
+                        width="auto"
+                        height="28px"
+                    />
+                </a>
+            </div>
+
             <Snackbar
                 anchorOrigin={{
                     vertical: 'top',
@@ -112,6 +128,9 @@ AppContent.propTypes = {
 
 export default withStyles(theme => ({
     appInfo: {
+        textAlign: 'center',
+    },
+    github: {
         textAlign: 'center',
     },
     paper: {
