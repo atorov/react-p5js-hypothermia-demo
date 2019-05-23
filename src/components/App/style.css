@@ -1,0 +1,8 @@
+#app-root {
+    font-family: Roboto, sans-serif;
+}
+
+.app-content {
+    max-width: 1024px;
+    margin: auto;
+}
