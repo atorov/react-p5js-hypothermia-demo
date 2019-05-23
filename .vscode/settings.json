@@ -11,9 +11,11 @@
         "entrypoint",
         "heatmap",
         "max",
+        "minified",
         "plusplus",
         "size",
         "snackbar",
-        "stroustrup"
+        "stroustrup",
+        "superset"
     ]
 }
