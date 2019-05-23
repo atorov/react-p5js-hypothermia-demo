@@ -33,7 +33,7 @@ Check out the online version [here](http://hypothermia.surge.sh/).
 
 ---
 
-Another examples, build on the same concept but using class-based components, can be found [here](https://github.com/atorov/react-p5js), [here](https://github.com/atorov/react-hooks-p5js), and [here](https://github.com/atorov/fractal-tree-simulator).
+Another examples, build on the same concept, can be found [here](https://github.com/atorov/react-p5js), [here](https://github.com/atorov/react-hooks-p5js), and [here](https://github.com/atorov/fractal-tree-simulator).
 
 ![alt application screenshot](http://hypothermia.surge.sh/demo/screenshot.png)
 
