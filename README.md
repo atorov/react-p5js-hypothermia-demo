@@ -28,9 +28,8 @@ The basic idea is that the p5.js sketch is wrapped in a React component. The dat
 
 Check out the online version [here](http://hypothermia.surge.sh/).
 
-<aside class="">
-    This is a demo application. DO NOT use it in real situations to diagnose or treat hypothermia and frostbite!
-</aside>
+:WARNING:
+**This is a demo application. DO NOT use it in real situations to diagnose or treat hypothermia and frostbite!**
 
 ---
 
