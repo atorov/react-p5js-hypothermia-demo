@@ -6,12 +6,14 @@
         "contenthash",
         "corejs",
         "crossorigin",
+        "describedby",
         "devtool",
         "entrypoint",
         "heatmap",
         "max",
         "plusplus",
         "size",
+        "snackbar",
         "stroustrup"
     ]
 }
