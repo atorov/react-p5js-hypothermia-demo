@@ -1,6 +1,6 @@
 # Diagnosing Hypothermia Symptoms
 
-![alt application screenshot](http://hypothermia.surge.sh/demo/screencast.gif)
+![alt application screenshot](https://github.com/atorov/react-p5js-hypothermia-demo/blob/master/src/assets/demo/screencast.gif)
 
 ## Main goals of the project
 
